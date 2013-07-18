@@ -13,6 +13,9 @@ Here are some commands
 ----------------------
 
 git clone
+
 git add
+
 git commit
+
 git push
