@@ -3,10 +3,9 @@ git-workshop
 
 Git Workshop
 
-This is in good state!
+Hmm... more stuff.
 
-
-
+Yay!
 
 
 
